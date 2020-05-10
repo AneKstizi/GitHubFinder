@@ -1,6 +1,9 @@
 # github-finder
 
 ## Project setup
+[Demo](https://finder-e9a88.web.app/)
+
+## Project setup
 ```
 npm install
 ```
